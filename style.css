@@ -1,0 +1,11 @@
+.main{
+    background-color:lightgrey;
+    color: chocolate;
+    text-align: center; 
+    padding: 150px; 
+    border: lightsteelblue;
+}
+#nature{
+    height: 150px;
+    width: 150px;
+}
